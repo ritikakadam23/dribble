@@ -317,6 +317,7 @@ body {
     .leftside {
         display: flex;
         gap: 17px;
+        width: 500px;
         /* border: 2px solid red; */
     
     }
