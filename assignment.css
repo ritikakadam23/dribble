@@ -380,8 +380,8 @@ body {
     
     .firstheading {
         /* border: 2px solid red; */
-        width: 100vw;
-        font-size: 32px;
+        width: 700px;
+        font-size: 30px;
     }
     
     .card1 {
@@ -557,9 +557,9 @@ body {
     .flexbox{
         /* border: 2px solid red ; */
         display: flex;
-        gap: 60px;
+        gap: 40px;
         flex-wrap: wrap;
-        width: 700px;
+        width: 900px;
     }
     
     .anchor-flexbox img{
